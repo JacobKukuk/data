@@ -1,6 +1,6 @@
-title: JKAN
-greeting: Welcome to JKAN
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+title: Darrington Open Data
+greeting: Welcome to Darrington Open Data
+description: An open dataset of local datapoint and civic information about the area of Darrington, WA that can be used to better understand our community and create solutions. Project by Code for Darrington (http://codefordarrington.org/)
 baseurl: 
 logo: /img/jkan.png
 
