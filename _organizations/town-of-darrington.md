@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Town of Darrington
+title: Darrington
 description: >-
   Darrington, a small mountain town in the foothills of the Cascade Mountains,
   stands where two rivers once joined in a valley between the Sauk and the
@@ -8,5 +8,5 @@ description: >-
   Mountain to the west. Shifting sand and river rock formed a portage surrounded
   by towering Douglas fir and cedar trees. Over time a community took root, a
   town grew, and a history formed.
-logo: 'https://townofdarrington.com/wp-content/uploads/2018/05/TownOfDarrington.png'
+logo: ''
 ---
