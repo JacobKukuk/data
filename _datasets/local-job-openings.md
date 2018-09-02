@@ -2,7 +2,7 @@
 schema: default
 title: Local Job Openings
 organization: Code for Darrington
-notes: 'List of local job openings updated by the public. '
+notes: 'List of local job openings updated by the public around Darrington, WA'
 resources:
   - name: Open Jobs List
     url: >-
@@ -11,6 +11,6 @@ resources:
 license: 'http://www.opendefinition.org/licenses/odc-by'
 category:
   - Economy
-maintainer: Jacob Kukuk
-maintainer_email: me@jacobkukuk.com
+maintainer: Public
+maintainer_email: ''
 ---
