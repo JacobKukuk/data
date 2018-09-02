@@ -9,7 +9,11 @@ resources:
     format: html
 license: ''
 category:
-  - Uncategorized
+  - Budget / Finance
+  - Economy
+  - Elections / Politics
+  - Planning / Zoning
+  - Real Estate / Land Records
 maintainer: Town of Darrington
 maintainer_email: ''
 ---
