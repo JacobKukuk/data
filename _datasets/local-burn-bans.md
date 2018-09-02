@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Local Burn Bans
+title: 'Local Burn Bans '
 organization: Town of Darrington
 notes: Locations of resources related to burn ban information.
 resources:
@@ -16,6 +16,7 @@ resources:
 license: ''
 category:
   - Environment
+  - Public Safety
 maintainer: Related Departments
 maintainer_email: ''
 ---
